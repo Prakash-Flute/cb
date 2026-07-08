@@ -1,0 +1,6 @@
+{
+  "name": "CopyBox",
+  "description": "A premium floating clipboard manager with category organization and code-aware snippet handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
